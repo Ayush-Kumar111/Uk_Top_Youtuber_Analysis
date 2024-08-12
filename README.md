@@ -1,5 +1,6 @@
-# Data Portfolio: Excel to Power BI 
+# Top UK Yotubers in 2024 
 
+# Flow of Project
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
